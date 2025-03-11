@@ -1,1 +1,1 @@
-print('jahongir2')
+print('jahongir2' + ' hello')
