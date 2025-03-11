@@ -1,1 +1,1 @@
-print('jahongir')
+print('sanjar')
